@@ -6,7 +6,7 @@
 ## education
 duke university (aug 2025-dec 2027), BS in mathematics and physics, minor in computer science
 
-university of virginia (aug 2024-may 2025), BS in computer science (transferred out)
+university of virginia (aug 2024-may 2025), BS in computer science ([rodman scholar](https://engineering.virginia.edu/offices-programs/rodman-scholars-program), transferred out)
 
 ## research
 rough path theory (aug 2026-present)
