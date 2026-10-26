@@ -20,3 +20,6 @@ complex analysis and the Riemann zeta function (oct 2026)
 
 ## journalism 
 associate news editor @ [the duke chronicle](https://dukechronicle.com/by/yashraj-vishwakarma)
+
+## hobbies
+[chess](https://ratings.fide.com/profile/33436860), poker, travelling (50+ countries), collecting vinyls
