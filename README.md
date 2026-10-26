@@ -1,3 +1,6 @@
+<style>
+  h2 { margin-top: 1.2em; margin-bottom: 0.5em; }
+</style>
 <p style="opacity: 0.6; margin-top: -1em;">interested in stochastic analysis + quantum field theory</p>
 
 ## education
