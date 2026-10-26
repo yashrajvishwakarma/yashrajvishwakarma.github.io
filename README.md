@@ -1,11 +1,11 @@
 <style>
-    @media (min-width: 1024px) {
+  html, body, main, header, h1 { margin-top: 0 !important; padding-top: 0 !important; }
+  body { padding-top: 1em !important; }
+  h2 { margin-top: 1.2em; margin-bottom: 0.5em; }
+  p[style*="opacity"] a { color: inherit; }
+  @media (min-width: 1024px) {
     html, body { overflow: hidden; }
   }
-      p[style*="opacity"] a { color: inherit; }
-  h2 { margin-top: 1.2em; margin-bottom: 0.5em; }
-      body { margin-top: 0; padding-top: 1.5em; }
-  h1 { margin-top: 0; }
 </style>
 <p style="opacity: 0.6; margin-top: -1em;">interested in stochastic analysis + quantum field theory</p>
 <p style="opacity: 0.6; margin-top: -0.8em;"><a href="mailto:yv29@duke.edu">email</a> · <a href="https://github.com/yashrajvishwakarma">github</a> · <a href="https://www.linkedin.com/in/yashraj-vishwakarma">linkedin</a></p>
