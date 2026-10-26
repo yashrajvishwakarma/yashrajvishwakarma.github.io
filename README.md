@@ -10,8 +10,9 @@ rough path theory (aug 2026-present)
 
 analytic number theory (feb 2026-apr 2026)
 
-## talks
-### duke undergraduate mini-colloquia
+[geometry lab](https://math.virginia.edu/mathexlab/projects/) (jan 2025-may 2025)
+
+## talks (duke undergraduate mini-colloquia)
 
 an introduction to random matrix theory (oct 2026)
 
