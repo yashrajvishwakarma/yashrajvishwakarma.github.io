@@ -12,7 +12,7 @@ duke university (aug 2025-dec 2027), BS in mathematics and physics, minor in com
 university of virginia (aug 2024-may 2025), BS in computer science ([rodman scholar](https://engineering.virginia.edu/offices-programs/rodman-scholars-program), transferred out)
 
 ## research
-rough path theory (advised by alexander dunlap) (aug 2026-present)
+rough path theory, advised by alexander dunlap (aug 2026-present)
 
 [condensed matter physics](https://sites.duke.edu/haravifard/) (may 2026-present)
 
