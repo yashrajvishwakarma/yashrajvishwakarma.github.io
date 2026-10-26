@@ -1,4 +1,4 @@
-<p style="opacity: 0.6; margin-top: -1em;">interested in stochastic analysis + QFT, low-level systems, and journalism</p>
+<p style="opacity: 0.6; margin-top: -1em;">interested in stochastic analysis + quantum field theory, low-level systems, and journalism</p>
 
 ## education
 duke university (aug 2025-dec 2027), BS in mathematics and physics, minor in computer science
