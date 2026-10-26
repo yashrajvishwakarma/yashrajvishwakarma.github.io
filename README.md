@@ -1,7 +1,7 @@
 ## education
-duke university (aug 2025-dec 2027), BS in Mathematics and Physics, minor in Computer Science
+duke university (aug 2025-dec 2027), BS in mathematics and physics, minor in computer science
 
-university of virginia (aug 2024-may 2025), BS in Computer Science (transferred out)
+university of virginia (aug 2024-may 2025), BS in computer science (transferred out)
 
 dhirubhai ambani international school (mar 2010-may 2024), ib diploma + igcse
 
@@ -21,5 +21,5 @@ complex analysis and the Riemann zeta function (oct 2026)
 
 
 
-### journalism 
+## journalism 
 associate news editor @ [the duke chronicle](https://dukechronicle.com/by/yashraj-vishwakarma)
