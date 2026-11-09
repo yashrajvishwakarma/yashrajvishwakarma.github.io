@@ -1,3 +1,6 @@
 remote_theme: riggraz/no-style-please
+theme: "light"
 title: Yashraj Vishwakarma
-description: interested in stochastic analysis + QFT, low-level systems, and journalism
+description: interested in stochastic analysis + quantum field theory
+plugins:
+  - jekyll-remote-theme
