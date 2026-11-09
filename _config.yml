@@ -1,6 +1,7 @@
 remote_theme: riggraz/no-style-please
-theme: "light"
 title: Yashraj Vishwakarma
 description: interested in stochastic analysis + quantum field theory
+theme_config:
+  appearance: "light"
 plugins:
   - jekyll-remote-theme
